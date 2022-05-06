@@ -19,6 +19,8 @@ public class DemoTwo {
 	public void multi(int a, int b) {
 
 		System.out.println(a * b);
+		
+		System.out.println("Messi is the best player");
 	}
-	system.out.println("New code")
+	
 }

@@ -20,4 +20,5 @@ public class DemoTwo {
 
 		System.out.println(a * b);
 	}
+	system.out.println("New code")
 }

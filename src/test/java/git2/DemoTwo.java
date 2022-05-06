@@ -1,4 +1,5 @@
 package git2;
+
 //coming from remote...
 public class DemoTwo {
 	public static void main(String[] args) {
@@ -19,10 +20,10 @@ public class DemoTwo {
 	public void multi(int a, int b) {
 
 		System.out.println(a * b);
-		
+
 		System.out.println("Messi is the best player");
-		
-		// new code is added .... 
+
+		// new code is added ....
 	}
-	
+
 }

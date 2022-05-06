@@ -21,6 +21,8 @@ public class DemoTwo {
 		System.out.println(a * b);
 		
 		System.out.println("Messi is the best player");
+		
+		// new code is added .... 
 	}
 	
 }
